@@ -56,10 +56,10 @@ draw = function() {
     fill(255, 187, 0);
     triangle(x-50,y-13,x-50,y+13,x-17,y);
     strokeWeight(10);
-        var logox = x;
-    var logoy = y+5;
-
-    logo(x-48,y-6);
+    
+    var logox = x-45;
+    var logoy = y-6;
+    logo(logox,logoy);
     
     //left leg
     fill(0, 98, 255);
