@@ -1,4 +1,5 @@
 These are some animations and drawings that I made!
+Press the reload button to see the animations again.
 
 <script src="https://cdn.rawgit.com/processing-js/processing-js/v1.4.8/processing.js"></script>
 
