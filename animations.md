@@ -12,3 +12,6 @@ This is an animation I made called "**Counting Sheep**".
 This is an animation I made called "**Race**".
 <canvas width="400" height="400" data-processing-sources="race.js"></canvas>
 
+This is an animation I made called "**Plane Flying By**".
+<canvas width="400" height="400" data-processing-sources="planeflyingby.js"></canvas>
+
