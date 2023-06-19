@@ -1,3 +1,7 @@
+void setup() {
+  size(400, 400);
+}
+
 noStroke();
 var x=500;
 var y=230;
