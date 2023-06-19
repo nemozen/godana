@@ -11,7 +11,7 @@ var logo = function(logox, logoy) {
     rotate(90);
     fill(255,0,0);
     textSize(20);
-    text("S",logoy,-logox);
+    text("S",logox,logoy);
     popMatrix();
 };
 
