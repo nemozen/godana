@@ -15,3 +15,6 @@ This is an animation I made called "**Race**".
 This is an animation I made called "**Plane Flying By**".
 <canvas width="400" height="400" data-processing-sources="planeflyingby.js"></canvas>
 
+
+This is an animation I made called "**Exploding Sun**".
+<canvas width="400" height="400" data-processing-sources="explodingsun.js"></canvas>
