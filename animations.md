@@ -8,3 +8,6 @@ This is an animation I made called "**Superman**".
 This is an animation I made called "**Counting Sheep**".
 <canvas width="400" height="400" data-processing-sources="sheep.js"></canvas>
 
+This is an animation I made called "**Race**".
+<canvas width="400" height="400" data-processing-sources="race.js"></canvas>
+
