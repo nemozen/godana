@@ -56,11 +56,7 @@ draw = function() {
     fill(255, 187, 0);
     triangle(x-50,y-13,x-50,y+13,x-17,y);
     strokeWeight(10);
-    
-    var logox = x-45;
-    var logoy = y-6;
-    logo(logox,logoy);
-    
+  
     //left leg
     fill(0, 98, 255);
     rect(x+50,y-40,70,32);
@@ -88,7 +84,11 @@ draw = function() {
     rect(x-166,y+45,100,15);
     fill(232, 173, 126);
     ellipse(x-166,y+52,20,25);
-    
+
+    var logox = x-45;
+    var logoy = y-6;
+    logo(logox,logoy);
+  
     x-=5;
     if (x < -100) {
         x=580;
