@@ -24,3 +24,6 @@ This is an animation I made called "**Crab**".
 This is an animation I made called "**Fun On The Trampoline**".
 <canvas width="400" height="400" data-processing-sources="funonthetrampoline.js"></canvas>
 
+This is an animation I made called "**End Of The World**".
+<canvas width="400" height="400" data-processing-sources="endoftheworld.js"></canvas>
+
